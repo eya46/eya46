@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule: [{cron: "22 0 * * *"}]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: show.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+          plugin_languages_indepth: yes
+
+          plugin_wakatime: True
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: ["time","editors","os"]
+
+          plugin_activity: True
+          plugin_activity_visibility: public
+          
