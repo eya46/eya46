@@ -1,6 +1,8 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "22 0 * * *"}]
+  schedule:
+    - cron: "22 0 * * *"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -20,4 +22,4 @@ jobs:
 
           plugin_activity: True
           plugin_activity_visibility: public
-          
+
