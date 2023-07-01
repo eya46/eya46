@@ -17,6 +17,8 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_threshold: 1%
+          plugin_languages_details: percentage
 
           plugin_activity: True
           plugin_activity_visibility: public
