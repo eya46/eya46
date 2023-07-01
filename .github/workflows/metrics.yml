@@ -19,7 +19,7 @@ jobs:
 
           plugin_wakatime: True
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: ["time","editors","os"]
+          plugin_wakatime_sections: time,editors,os
 
           plugin_activity: True
           plugin_activity_visibility: public
