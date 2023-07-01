@@ -1,5 +1,3 @@
-<img src="./show.svg" />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2050%20mins-blue)
 
@@ -30,3 +28,5 @@ Windows                  58 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 2023/07/01 04:09:04 UTC
 <!--END_SECTION:waka-->
+
+<img src="./show.svg" />
