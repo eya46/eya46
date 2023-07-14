@@ -1,4 +1,4 @@
-![:eya46](https://count.getloli.com/get/@:eya46)
+![:eya46](https://count.getloli.com/get/@:eya46?theme=rule34)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2017%20mins-blue)
 
