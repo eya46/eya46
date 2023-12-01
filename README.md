@@ -1,6 +1,6 @@
 ![:eya46](https://count.getloli.com/get/@:eya46?theme=gelbooru)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-156.3%20thousand%20lines%20of%20code-blue)
 
@@ -28,7 +28,7 @@ Windows                  13 hrs 27 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 2023/11/30 11:27:41 UTC
+ Last Updated on 2023/12/01 11:27:44 UTC
 <!--END_SECTION:waka-->
 
 <img src="./show.svg" />
