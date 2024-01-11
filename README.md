@@ -1,8 +1,8 @@
 ![:eya46](https://count.getloli.com/get/@:eya46?theme=gelbooru)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,7 +27,7 @@ Windows                  3 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 2024/01/10 11:28:01 UTC
+ Last Updated on 2024/01/11 11:28:12 UTC
 <!--END_SECTION:waka-->
 
 <img src="./show.svg" />
