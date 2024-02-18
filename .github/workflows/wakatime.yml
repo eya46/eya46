@@ -19,7 +19,8 @@ jobs:
           # COMMIT_EMAIL: "61458340+eya46@users.noreply.github.com"
           SHOW_UPDATED_DATE: True
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
-          SHOW_LINES_OF_CODE: True
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_LINES_OF_CODE: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_COMMIT: False
           SHOW_LANGUAGE_PER_REPO: False
