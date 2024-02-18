@@ -20,7 +20,7 @@ jobs:
         #   plugin_languages_threshold: 1%
           plugin_languages_details: percentage
 
-          # plugin_activity: True
+          plugin_activity: False
           # plugin_activity_visibility: public
           # plugin_activity_filter: issue,pr,release,fork
           # plugin_activity_limit: 10
