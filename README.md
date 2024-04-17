@@ -1,4 +1,4 @@
-![:eya46](https://count.getloli.com/get/@:eya46?theme=gelbooru)
+<!--![:eya46](https://count.getloli.com/get/@:eya46?theme=gelbooru)-->
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
