@@ -6,18 +6,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.68 % 
-YAML                     0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025/08/16 11:29:05 UTC
+ Last Updated on 2025/08/17 11:29:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="./show.svg" />
